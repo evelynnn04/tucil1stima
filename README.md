@@ -1,5 +1,5 @@
 # Tucil 1 Stima
-# Penyelesaian Permainan Cyberpunk 2077 Breach Protocol
+# Cyberpunk 2077 Breach Protocol Solver
 
 > Author:
 > Evelyn Yosiana (13522083)<br> 
@@ -11,7 +11,7 @@
 This program is designed to complete the game Cyberpunk 2077 protocol breach with a brute force algorithm. This game aims to find the most optimal buffer, namely the buffer with the largest weight. At the beginning of the buffer selection, the player can only select the matrix elements in the top row, then move horizontally, vertically, horizontally, vertically, and so on. Users can enter input via a txt file or command line interface (CLI). This program also has a GUI so that users can enter input manually in the available fields or read input from a txt file
 
 ## Built With
-Python
+- Python
 
 ## Libraries Used
 - flet
